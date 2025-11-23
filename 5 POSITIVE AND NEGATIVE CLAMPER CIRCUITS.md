@@ -1,5 +1,7 @@
+
+
 ## Exp. No. 5
-**Date:**  
+**Date : 18/10/2025**  
 
 ## POSITIVE AND NEGATIVE CLAMPER CIRCUITS
 <img width="740" height="585" alt="image" src="https://github.com/user-attachments/assets/dc3afb1d-31c1-4b7c-b5af-65ddfe042778" />
@@ -13,12 +15,25 @@
 
 
 # Tabulation
+![5t](https://github.com/user-attachments/assets/29a4beb7-842e-4d8b-b4fb-bfde7ce9bfcf)
+
+
 
 
 # Graph
+![5g](https://github.com/user-attachments/assets/6f7986bd-f37d-4073-bf0b-e0de576f72c0)
 
+![5g](https://github.com/user-attachments/assets/3bf24912-ac36-4593-9f44-e7cd94b0e827)
 
 # Sample images 
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/856ff1c9-cd7b-42d9-b141-61a25b87ceb2" />
+
+![WhatsApp Image 2025-11-21 at 09 12 48_debca5dd](https://github.com/user-attachments/assets/b9d222bd-b6d6-4386-b5fd-151fdfcfcc9c)
+
+
+
 
 # Result
+
+Thus the operation of non-linear wave shaping clamper circuit is performed.
